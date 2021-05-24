@@ -1,0 +1,9 @@
+# This file will be read by# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+
+#scurity_path
+ro.build.version.security_patch=2021-05-24
+
+#scurity_path vendor
+ro.vendor.build.security_patch=2021-05-24
