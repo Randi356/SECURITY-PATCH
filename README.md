@@ -1,8 +1,7 @@
 <h1 align="center">MAGISK MODULE MOD-BY Randywahidin</H1>
 <p align="center">
 
-# Injector
-<p align="center"><img src="https://raw.githubusercontent.com/HafizZiq/NFS-Injector/master/injector.png"></p>
+# security 
 A Magisk module which aims to improve kernel/RAM management, by using values between performance and battery savings.
 Flash, and forget.
 
