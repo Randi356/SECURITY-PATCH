@@ -3,7 +3,7 @@
 # ro.sf.lcd_density=320
 
 #scurity_path
-ro.build.version.security_patch=2021-06-02
+ro.build.version.security_patch=2021-08-24
 
 #scurity_path vendor
-ro.vendor.build.security_patch=2021-06-02
+ro.vendor.build.security_patch=2021-08-24
