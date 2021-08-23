@@ -1,6 +1,5 @@
 <h1 align="center">MAGISK MODULE MOD-BY Randywahidin</H1>
 <p align="center">
-</p>
 
 # Injector
 <p align="center"><img src="https://raw.githubusercontent.com/HafizZiq/NFS-Injector/master/injector.png"></p>
