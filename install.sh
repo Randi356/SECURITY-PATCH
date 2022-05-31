@@ -123,7 +123,7 @@ REPLACE="
 
 print_modname() {
  ui_print "***************************************"
-  ui_print "  SECURITY PATCH UPDATE"
+  ui_print "  SECURITY PATCH UPDATE 2022"
  ui_print "                                       "
  ui_print "***************************************"
 }
